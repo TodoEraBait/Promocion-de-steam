@@ -1,0 +1,33 @@
+body{
+	background-color: #0000FF;
+}
+h1{
+	text-align: center;
+	color:#C22910;
+}
+h2{
+	color:#C22910;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+p{
+	text-align: center;
+	color:#C22910;
+	font-family:Arial, Helvetica, sans-serif;
+}
+h3{
+	font-family:Arial, Helvetica, sans-serif;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+button {
+  padding: 25px;
+  background-color: darkgreen;
+  color: white;
+}
+.modo-oscuro{
+	 background-color: black;
+  color: white;
+}
